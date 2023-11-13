@@ -1,0 +1,3 @@
+[submodule "child"]
+	path = child
+	url = https://github.com/bloom7gloom/gitstudy_child.git
